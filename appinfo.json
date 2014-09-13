@@ -1,0 +1,30 @@
+{
+    "appKeys": {
+        "TAG1": 100,
+        "TAG2": 102,
+        "UPDATE": 104
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "post@olrikheuser.de",
+    "longName": "Vertretungsplan",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/vertretungsplan.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Vertretungsplan",
+    "uuid": "0711b2c8-5012-43c2-8846-859de2cf34cc",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
